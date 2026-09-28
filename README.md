@@ -1,34 +1,79 @@
-# Sales Dashboard with Excel - Data Analyst Project 📊
+# Sales Performance & Business Analytics Dashboard
 
-Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from a US-based company spanning 2014 to 2017. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product categories and states.
+An interactive Microsoft Excel dashboard for exploring sales performance, product contribution, customer activity, and geographic trends.
 
-## Dashboard Preview:
-![Dashboard Preview](https://github.com/minhaj-313/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/main/Sales%20Dashboard%20-%20Excel.png?raw=true)
+## Project Overview
 
+This project turns sales information into a compact business-analytics dashboard. The goal is to move from raw records to clear KPIs, trend analysis, product-level comparisons, and actionable observations.
 
-## Features:
+### Objectives
+
+- Track overall sales performance
+- Identify high- and low-performing product categories
 - Analyze sales trends over time
-- Visualize sales distribution by state
-- Identify top-performing customers
-- Dive into monthly sales analysis
-- Explore profitability by product category
+- Compare performance across locations
+- Identify important customer and product segments
+- Communicate findings through an interactive Excel dashboard
 
-## Getting Started:
-1. Clone this repository to your local machine.
-2. Open the Excel file `Sales_Dashboard.xlsx` to explore the dashboard.
-3. Dive into the `Data` folder to access the raw dataset.
+## Tools & Skills
 
-## Project Overview:
-- **Objective:** To transform raw sales data into actionable insights.
-- **Tools Used:** Microsoft Excel
-- **Skills Demonstrated:** Data analysis, visualization, dashboard design.
+- **Microsoft Excel**
+- PivotTables and PivotCharts
+- Excel formulas and calculated metrics
+- Data cleaning and preparation
+- Dashboard design
+- Business and sales analysis
+- Data visualization
 
-## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
+## Dashboard Components
 
-## Tags:
-#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
+| Area | Purpose |
+|---|---|
+| Sales KPIs | Monitor headline performance metrics |
+| Product Analysis | Compare categories and products |
+| Time Analysis | Identify sales patterns over time |
+| Geographic Analysis | Compare performance across locations |
+| Customer Analysis | Identify major contributors to sales |
+| Trend Visualizations | Make changes in performance easier to interpret |
+
+## Key Questions
+
+1. Which products contribute the most to total sales?
+2. Which categories require closer attention?
+3. How does sales performance change over time?
+4. Which locations generate the highest sales?
+5. Which customers contribute significantly to revenue?
+6. What patterns can be identified from the dashboard?
+
+## Repository Structure
+
+```text
+Sales-Dashboard-Using-Excel/
+├── Data/
+│   └── salesdata-old.csv
+├── Sales_Dashboard.xlsx
+├── Sales Dashboard - Excel.png
+└── README.md
+```
+
+## How to Use
+
+1. Clone the repository.
+2. Open `Sales_Dashboard.xlsx` in Microsoft Excel.
+3. Use the dashboard controls and visualizations to explore the data.
+4. Review the supporting dataset in the `Data` directory.
+
+## Project Outcome
+
+The project demonstrates an Excel analytics workflow: preparing sales information, organizing it for analysis, creating summary metrics, building visualizations, and communicating business findings through a dashboard.
+
+## Author
+
+**G Haricharan**  
+Data Analytics | SQL | Python | Power BI | Excel
+
+GitHub: [haricharan-18](https://github.com/haricharan-18)
 
 ---
 
-Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀
+*Portfolio project focused on practical sales analytics and dashboard development.*
